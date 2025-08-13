@@ -1,0 +1,1 @@
+export { setupSocialService } from './setupSocialService';

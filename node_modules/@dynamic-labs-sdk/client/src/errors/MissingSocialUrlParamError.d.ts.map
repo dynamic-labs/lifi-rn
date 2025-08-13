@@ -1,0 +1,1 @@
+{"version":3,"file":"MissingSocialUrlParamError.d.ts","sourceRoot":"","sources":["../../../../../packages/client/src/errors/MissingSocialUrlParamError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,QAAQ,CAAC;AAEnC,qBAAa,0BAA2B,SAAQ,SAAS;gBAC3C,KAAK,EAAE,MAAM;CAS1B"}

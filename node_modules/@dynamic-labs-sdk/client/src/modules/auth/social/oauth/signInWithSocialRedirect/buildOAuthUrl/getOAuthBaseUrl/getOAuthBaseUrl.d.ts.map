@@ -1,0 +1,1 @@
+{"version":3,"file":"getOAuthBaseUrl.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/client/src/modules/auth/social/oauth/signInWithSocialRedirect/buildOAuthUrl/getOAuthBaseUrl/getOAuthBaseUrl.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,QAAQ,EAAgB,MAAM,4BAA4B,CAAC;AAIzE,wEAAwE;AACxE,eAAO,MAAM,eAAe,aAAc,QAAQ,KAAG,GA4BpD,CAAC"}

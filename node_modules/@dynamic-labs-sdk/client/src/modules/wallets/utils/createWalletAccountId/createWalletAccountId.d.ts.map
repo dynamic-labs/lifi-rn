@@ -1,0 +1,1 @@
+{"version":3,"file":"createWalletAccountId.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/client/src/modules/wallets/utils/createWalletAccountId/createWalletAccountId.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,KAAK,EAAE,MAAM,gBAAgB,CAAC;AAG5C,eAAO,MAAM,qBAAqB,UAAW,KAAK,WAAW,MAAM,KAAG,MACtB,CAAC"}

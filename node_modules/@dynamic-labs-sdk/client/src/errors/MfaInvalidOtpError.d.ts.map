@@ -1,0 +1,1 @@
+{"version":3,"file":"MfaInvalidOtpError.d.ts","sourceRoot":"","sources":["../../../../../packages/client/src/errors/MfaInvalidOtpError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,KAAK,mBAAmB,EAAE,MAAM,QAAQ,CAAC;AAE7D,qBAAa,kBAAmB,SAAQ,SAAS;gBACnC,EAAE,KAAK,EAAE,EAAE,IAAI,CAAC,mBAAmB,EAAE,OAAO,CAAC;CAS1D"}

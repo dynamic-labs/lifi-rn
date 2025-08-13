@@ -1,0 +1,1 @@
+{"version":3,"file":"UserNotAuthenticatedError.d.ts","sourceRoot":"","sources":["../../../../../packages/client/src/errors/UserNotAuthenticatedError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,KAAK,mBAAmB,EAAE,MAAM,QAAQ,CAAC;AAE7D,qBAAa,yBAA0B,SAAQ,SAAS;gBAC1C,EACV,YAAY,GACb,GAAE,OAAO,CAAC,IAAI,CAAC,mBAAmB,EAAE,cAAc,CAAC,CAAM;CAS3D"}

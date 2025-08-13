@@ -1,0 +1,1 @@
+{"version":3,"file":"WalletAccountAlreadyVerifiedError.d.ts","sourceRoot":"","sources":["../../../../../packages/client/src/errors/WalletAccountAlreadyVerifiedError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,QAAQ,CAAC;AAEnC,qBAAa,iCAAkC,SAAQ,SAAS;gBAClD,OAAO,EAAE,MAAM;CAS5B"}

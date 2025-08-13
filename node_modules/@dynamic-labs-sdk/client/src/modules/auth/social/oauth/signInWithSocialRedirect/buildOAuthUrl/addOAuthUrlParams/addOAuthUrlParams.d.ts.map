@@ -1,0 +1,1 @@
+{"version":3,"file":"addOAuthUrlParams.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/client/src/modules/auth/social/oauth/signInWithSocialRedirect/buildOAuthUrl/addOAuthUrlParams/addOAuthUrlParams.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,QAAQ,EAAgB,MAAM,4BAA4B,CAAC;AAOzE,uEAAuE;AACvE,eAAO,MAAM,iBAAiB,aAAc,QAAQ,WAAW,GAAG,KAAG,GA+BpE,CAAC"}

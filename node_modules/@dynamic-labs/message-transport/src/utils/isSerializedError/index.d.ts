@@ -1,0 +1,1 @@
+export { isSerializedError } from './isSerializedError';

@@ -1,0 +1,1 @@
+{"version":3,"file":"MfaRateLimitedError.d.ts","sourceRoot":"","sources":["../../../../../packages/client/src/errors/MfaRateLimitedError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,KAAK,mBAAmB,EAAE,MAAM,QAAQ,CAAC;AAE7D,qBAAa,mBAAoB,SAAQ,SAAS;gBACpC,EAAE,KAAK,EAAE,EAAE,IAAI,CAAC,mBAAmB,EAAE,OAAO,CAAC;CAS1D"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"state.d.ts","sourceRoot":"","sources":["../../../../../../packages/client/src/modules/initializeClient/state.ts"],"names":[],"mappings":"AAAA,MAAM,MAAM,iBAAiB,GACzB,eAAe,GACf,aAAa,GACb,UAAU,GACV,QAAQ,CAAC;AAEb,OAAO,CAAC,MAAM,CAAC;IACb,MAAM,WAAW,gBAAiB,SAAQ,MAAM,CAAC,MAAM,EAAE,OAAO,CAAC;QAC/D;;;;;;;WAOG;QACH,UAAU,EAAE,iBAAiB,CAAC;KAC/B;CACF"}

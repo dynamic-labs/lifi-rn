@@ -1,0 +1,1 @@
+{"version":3,"file":"MethodNotImplementedError.d.ts","sourceRoot":"","sources":["../../../../../packages/client/src/errors/MethodNotImplementedError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,QAAQ,CAAC;AAEnC,qBAAa,yBAA0B,SAAQ,SAAS;gBAC1C,UAAU,EAAE,MAAM;CAS/B"}

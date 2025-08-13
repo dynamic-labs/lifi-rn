@@ -1,0 +1,1 @@
+export { isVersionedTransaction } from './isVersionedTransaction';

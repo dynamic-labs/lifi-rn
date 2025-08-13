@@ -1,0 +1,1 @@
+{"version":3,"file":"getPasskeyRegistrationOptions.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/client/src/modules/auth/passkeys/getPasskeyRegistrationOptions/getPasskeyRegistrationOptions.ts"],"names":[],"mappings":"AAGA,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,0BAA0B,CAAC;AAG9D,eAAO,MAAM,6BAA6B,WAChC,aAAa,KACpB,OAAO,CAAC,sCAAsC,CAWhD,CAAC"}

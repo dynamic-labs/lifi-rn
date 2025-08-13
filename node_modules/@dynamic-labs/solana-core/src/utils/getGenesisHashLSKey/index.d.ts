@@ -1,0 +1,1 @@
+export { getGenesisHashLSKey } from './getGenesisHashLSKey';
