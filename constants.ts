@@ -1,3 +1,3 @@
-export const auth0Domain = 'dev-yzmx8clntiudeq62.us.auth0.com'
-export const auth0ClientId = 'Ka82QsWcJ7htI64KWsum2FQxeKwNpv1K'
-export const auth0ClientSecret = 'ZNqk02FON2WNR5ccEaHdR6dCQ4fqVd6iWARUjliTjf1uHN9a0mBoZWX3U23xWT0_'
+export const auth0Domain = "{AUTH0_DOMAIN}";
+export const auth0ClientId = "{AUTH0_CLIENT_ID}";
+export const auth0ClientSecret = "{AUTH0_CLIENT_SECRET}";
